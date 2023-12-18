@@ -1,0 +1,66 @@
+﻿
+@{
+    ViewData["Title"] = "Publicaciones";
+}
+
+@if(ViewBag.Usuario != null)
+{
+    <h1 class="text-center">Bienvenido @ViewBag.Usuario</h1>
+    @if (ViewBag.ListarPublicaciones.Count != null && ViewBag.ListarPublicaciones.Count > 0)
+    {
+        <div>
+            @if (ViewBag.Mensaje != null)
+            {
+                <p>@ViewBag.Mensaje</p>
+            }
+            @for (int i = 0; i < ViewBag.ListarPublicaciones.Count; i++)
+            {
+                //si hay publicaciones
+                <div class="border p-4">
+                    <form method="post">
+                        <p>@ViewBag.ListarPublicaciones[i]</p>
+                        <p>Valor de aceptación: @ViewBag.ListarPublicaciones[i].Fva</p>
+                        <button class="rounded" type="submit" name="accion" value="like">Like</button>
+                        <button class="rounded" type="submit" name="accion" value="dislike">Dislike</button>
+                        <p>Likes: @ViewBag.ListarPublicaciones[i].Likes</p>
+                        <p>Dislikes: @ViewBag.ListarPublicaciones[i].Dislikes</p>
+                        <!-- Input oculto para obtener el id de la publicacion en el controlador -->
+                        <input type="number" value="@ViewBag.ListarPublicaciones[i].Id" hidden name="id">
+                        <!-- Input oculto para obtener el id de la publicacion en el controlador -->
+                        <input type="text" placeholder="Titulo del comentario" name="Titulo">
+                        <br>
+                        <input type="text" placeholder="Agregar comentario" name="Comentario">
+                        <br>
+                        <button class="rounded my-2" type="submit" name="accion" value="enviar">Enviar Comentario</button>
+                    </form>
+
+                    @if (ViewBag.ListarPublicaciones[i].Comentarios.Count != null && ViewBag.ListarPublicaciones[i].Comentarios.Count > 0)
+                    {
+                        //si hay comentarios
+                        @for (int n = 0; n < ViewBag.ListarPublicaciones[i].Comentarios.Count; n++)
+                        {
+                            <div class="border ms-@n">
+                            <form method="post">
+                               <p >@ViewBag.ListarPublicaciones[i].Comentarios[n]</p>
+                                <!-- Input oculto para obtener el id de la publicacion en el controlador -->
+                               <input type="number" value="@ViewBag.ListarPublicaciones[i].Comentarios[n].Id" hidden name="id">
+                                <!-- Input oculto para obtener el id de la publicacion en el controlador -->
+                               <button class="rounded my-1" type="submit" name="accion" value="like">Like</button>
+                               <button class="rounded my-1" type="submit" name="accion" value="dislike">Dislike</button>
+                               <p>Likes: @ViewBag.ListarPublicaciones[i].Comentarios[n].Likes</p>
+                               <p>Dislikes: @ViewBag.ListarPublicaciones[i].Comentarios[n].Dislikes</p>
+                               <p>Valor de aceptación: @ViewBag.ListarPublicaciones[i].Comentarios[n].Fva</p>   
+                            </form>
+                            </div>
+                        }
+                    }
+                </div>
+            }
+        </div>
+    }
+
+} else
+{
+    //si no se pudo obtener el usuario
+    <h1 class="text-center">No se pudo obtener el usuario</h1>
+}

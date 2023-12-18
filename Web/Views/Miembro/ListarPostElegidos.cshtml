@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewData["Title"] = "Listar Post Elegidos";
+}
+
+<h1 class="text-center">Listar Post Elegidos</h1>
+
+<form method="post">
+    <label for="texto">Ingrese texto</label>
+    <input type="text" name="texto" /><br />
+    <label for="aceptacion">Ingrese Valor de Aceptacion</label>
+    <input type="number" name="aceptacion" /><br />
+    <input type="submit" value="Enviar" />
+</form>
+
+@if(ViewBag.Publicaciones!=null)
+{
+    @if (ViewBag.Publicaciones.Count > 0)
+    {
+        for (int i = 0; i < ViewBag.Publicaciones.Count; i++)
+        {
+            <div class="border p-4">
+                <p>@ViewBag.Publicaciones[i]</p>
+                <p>Valor de aceptación: @ViewBag.Publicaciones[i].Fva</p>
+                <p>Likes: @ViewBag.Publicaciones[i].Likes</p>
+                <p>Dislikes: @ViewBag.Publicaciones[i].Dislikes</p>
+            </div>
+        }
+    }
+}
+@if (ViewBag.Mensaje!=null && ViewBag.Mensaje.Length>0)
+{
+    <p>@ViewBag.Mensaje</p>
+}
+
+
+
+

@@ -1,0 +1,126 @@
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.exe
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.deps.json
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.runtimeconfig.json
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.dll
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.pdb
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\LogicaNegocio.dll
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\LogicaNegocio.pdb
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.AssemblyInfo.cs
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.csproj.CopyComplete
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.dll
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\refint\InterfazDeUsuario.dll
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.pdb
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.genruntimeconfig.cache
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\ref\InterfazDeUsuario.dll
+C:\Users\marti\OneDrive\Escritorio\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.exe
+C:\Users\marti\OneDrive\Escritorio\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.deps.json
+C:\Users\marti\OneDrive\Escritorio\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.runtimeconfig.json
+C:\Users\marti\OneDrive\Escritorio\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.dll
+C:\Users\marti\OneDrive\Escritorio\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.pdb
+C:\Users\marti\OneDrive\Escritorio\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\LogicaNegocio.dll
+C:\Users\marti\OneDrive\Escritorio\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\LogicaNegocio.pdb
+C:\Users\marti\OneDrive\Escritorio\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Escritorio\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Escritorio\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Escritorio\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.csproj.CopyComplete
+C:\Users\marti\OneDrive\Escritorio\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.dll
+C:\Users\marti\OneDrive\Escritorio\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\refint\InterfazDeUsuario.dll
+C:\Users\marti\OneDrive\Escritorio\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.pdb
+C:\Users\marti\OneDrive\Escritorio\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Escritorio\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\ref\InterfazDeUsuario.dll
+C:\Users\Santiago\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.exe
+C:\Users\Santiago\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.deps.json
+C:\Users\Santiago\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.runtimeconfig.json
+C:\Users\Santiago\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.dll
+C:\Users\Santiago\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.pdb
+C:\Users\Santiago\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\LogicaNegocio.dll
+C:\Users\Santiago\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\LogicaNegocio.pdb
+C:\Users\Santiago\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.csproj.AssemblyReference.cache
+C:\Users\Santiago\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.AssemblyInfoInputs.cache
+C:\Users\Santiago\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.AssemblyInfo.cs
+C:\Users\Santiago\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.csproj.CopyComplete
+C:\Users\Santiago\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.dll
+C:\Users\Santiago\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\refint\InterfazDeUsuario.dll
+C:\Users\Santiago\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.pdb
+C:\Users\Santiago\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.genruntimeconfig.cache
+C:\Users\Santiago\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\ref\InterfazDeUsuario.dll
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.exe
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.deps.json
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.runtimeconfig.json
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.dll
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.pdb
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\LogicaNegocio.dll
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\LogicaNegocio.pdb
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.AssemblyInfo.cs
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.csproj.CopyComplete
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.dll
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\refint\InterfazDeUsuario.dll
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.pdb
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.genruntimeconfig.cache
+C:\Users\santi\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Semestre 2\Programación 2\Obligatorio 1\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\ref\InterfazDeUsuario.dll
+C:\Users\marti\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Facultad\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.exe
+C:\Users\marti\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Facultad\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.deps.json
+C:\Users\marti\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Facultad\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.runtimeconfig.json
+C:\Users\marti\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Facultad\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.dll
+C:\Users\marti\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Facultad\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.pdb
+C:\Users\marti\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Facultad\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\LogicaNegocio.dll
+C:\Users\marti\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Facultad\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\LogicaNegocio.pdb
+C:\Users\marti\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Facultad\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Facultad\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Facultad\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Facultad\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.AssemblyInfo.cs
+C:\Users\marti\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Facultad\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Facultad\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.csproj.CopyComplete
+C:\Users\marti\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Facultad\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.dll
+C:\Users\marti\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Facultad\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\refint\InterfazDeUsuario.dll
+C:\Users\marti\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Facultad\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.pdb
+C:\Users\marti\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Facultad\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.genruntimeconfig.cache
+C:\Users\marti\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Facultad\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\ref\InterfazDeUsuario.dll
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.AssemblyInfo.cs
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.dll
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\refint\InterfazDeUsuario.dll
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.pdb
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.exe
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.deps.json
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.runtimeconfig.json
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.dll
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.pdb
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\LogicaNegocio.dll
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\bin\Debug\net7.0\LogicaNegocio.pdb
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.csproj.CopyComplete
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.genruntimeconfig.cache
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO\InterfazDeUsuario\obj\Debug\net7.0\ref\InterfazDeUsuario.dll
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\Obligatorio2\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.exe
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\Obligatorio2\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.deps.json
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\Obligatorio2\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.runtimeconfig.json
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\Obligatorio2\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.dll
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\Obligatorio2\InterfazDeUsuario\bin\Debug\net7.0\InterfazDeUsuario.pdb
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\Obligatorio2\InterfazDeUsuario\bin\Debug\net7.0\LogicaNegocio.dll
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\Obligatorio2\InterfazDeUsuario\bin\Debug\net7.0\LogicaNegocio.pdb
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\Obligatorio2\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\Obligatorio2\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\Obligatorio2\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\Obligatorio2\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.AssemblyInfo.cs
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\Obligatorio2\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\Obligatorio2\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.csproj.CopyComplete
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\Obligatorio2\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.dll
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\Obligatorio2\InterfazDeUsuario\obj\Debug\net7.0\refint\InterfazDeUsuario.dll
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\Obligatorio2\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.pdb
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\Obligatorio2\InterfazDeUsuario\obj\Debug\net7.0\InterfazDeUsuario.genruntimeconfig.cache
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\Obligatorio2\InterfazDeUsuario\obj\Debug\net7.0\ref\InterfazDeUsuario.dll

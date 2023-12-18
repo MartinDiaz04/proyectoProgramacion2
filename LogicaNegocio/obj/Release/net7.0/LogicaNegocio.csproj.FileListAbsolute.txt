@@ -1,0 +1,11 @@
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\LogicaNegocio\bin\Release\net7.0\LogicaNegocio.deps.json
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\LogicaNegocio\bin\Release\net7.0\LogicaNegocio.dll
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\LogicaNegocio\bin\Release\net7.0\LogicaNegocio.pdb
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\LogicaNegocio\obj\Release\net7.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\LogicaNegocio\obj\Release\net7.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\LogicaNegocio\obj\Release\net7.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\LogicaNegocio\obj\Release\net7.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\LogicaNegocio\obj\Release\net7.0\LogicaNegocio.dll
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\LogicaNegocio\obj\Release\net7.0\refint\LogicaNegocio.dll
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\LogicaNegocio\obj\Release\net7.0\LogicaNegocio.pdb
+C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\LogicaNegocio\obj\Release\net7.0\ref\LogicaNegocio.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "InterfazDeUsuario/1.0.0": {
+        "dependencies": {
+          "LogicaNegocio": "1.0.0"
+        },
+        "runtime": {
+          "InterfazDeUsuario.dll": {}
+        }
+      },
+      "LogicaNegocio/1.0.0": {
+        "runtime": {
+          "LogicaNegocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InterfazDeUsuario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicaNegocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

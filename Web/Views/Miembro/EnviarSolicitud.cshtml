@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewData["Title"] = "Enviar Solicitud";
+}
+
+<h1 class="text-center">Enviar solicitud de amistad</h1>
+@if (ViewBag.ListaNoAmigos != null)
+{
+    <form method="post">
+        <label for="email">Seleccione un usuario de la lista:</label>
+        <select name="email" id="email">
+            @for (int i =0; i < ViewBag.ListaNoAmigos.Count; i++)
+            {
+                <option value="@ViewBag.ListaNoAmigos[i].Email">@ViewBag.ListaNoAmigos[i].Nombre @ViewBag.ListaNoAmigos[i].Apellido</option>
+            }
+        </select>
+        <br>
+        <input type="submit" value="Enviar solicitud">
+    </form>
+}
+@if (ViewBag.Msj != null)
+{
+    <p>@ViewBag.Msj</p>
+}

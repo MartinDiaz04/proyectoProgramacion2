@@ -1,0 +1,89 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Web
+build_property.RootNamespace = Web
+build_property.ProjectDir = C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\Web\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\marti\Desktop\Facultad\SEMESTRE 2\Programación 2\OBLIGATORIO PARTE 2\Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/marti/Desktop/Facultad/SEMESTRE 2/Programación 2/OBLIGATORIO PARTE 2/Web/Views/Admin/BanearPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQmFuZWFyUG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marti/Desktop/Facultad/SEMESTRE 2/Programación 2/OBLIGATORIO PARTE 2/Web/Views/Admin/BloquearMiembros.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQmxvcXVlYXJNaWVtYnJvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marti/Desktop/Facultad/SEMESTRE 2/Programación 2/OBLIGATORIO PARTE 2/Web/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marti/Desktop/Facultad/SEMESTRE 2/Programación 2/OBLIGATORIO PARTE 2/Web/Views/Admin/ListarUsuarios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGlzdGFyVXN1YXJpb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marti/Desktop/Facultad/SEMESTRE 2/Programación 2/OBLIGATORIO PARTE 2/Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marti/Desktop/Facultad/SEMESTRE 2/Programación 2/OBLIGATORIO PARTE 2/Web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marti/Desktop/Facultad/SEMESTRE 2/Programación 2/OBLIGATORIO PARTE 2/Web/Views/Miembro/AceptarRechazarSolicitudes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWllbWJyb1xBY2VwdGFyUmVjaGF6YXJTb2xpY2l0dWRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marti/Desktop/Facultad/SEMESTRE 2/Programación 2/OBLIGATORIO PARTE 2/Web/Views/Miembro/EnviarSolicitud.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWllbWJyb1xFbnZpYXJTb2xpY2l0dWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marti/Desktop/Facultad/SEMESTRE 2/Programación 2/OBLIGATORIO PARTE 2/Web/Views/Miembro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWllbWJyb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marti/Desktop/Facultad/SEMESTRE 2/Programación 2/OBLIGATORIO PARTE 2/Web/Views/Miembro/ListarPostElegidos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWllbWJyb1xMaXN0YXJQb3N0RWxlZ2lkb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marti/Desktop/Facultad/SEMESTRE 2/Programación 2/OBLIGATORIO PARTE 2/Web/Views/Miembro/RealizarPublicacion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWllbWJyb1xSZWFsaXphclB1YmxpY2FjaW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marti/Desktop/Facultad/SEMESTRE 2/Programación 2/OBLIGATORIO PARTE 2/Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marti/Desktop/Facultad/SEMESTRE 2/Programación 2/OBLIGATORIO PARTE 2/Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marti/Desktop/Facultad/SEMESTRE 2/Programación 2/OBLIGATORIO PARTE 2/Web/Views/Usuario/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marti/Desktop/Facultad/SEMESTRE 2/Programación 2/OBLIGATORIO PARTE 2/Web/Views/Usuario/Registro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xSZWdpc3Ryby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marti/Desktop/Facultad/SEMESTRE 2/Programación 2/OBLIGATORIO PARTE 2/Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marti/Desktop/Facultad/SEMESTRE 2/Programación 2/OBLIGATORIO PARTE 2/Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/marti/Desktop/Facultad/SEMESTRE 2/Programación 2/OBLIGATORIO PARTE 2/Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lzldzk1rll

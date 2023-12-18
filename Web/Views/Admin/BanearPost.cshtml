@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "Banear Post";
+}
+
+<h2 class="text-center">Banear post</h2>
+<form method="post">
+    @if (ViewBag.ListaDePost != null && ViewBag.ListaDePost.Count > 0)
+    {
+        <label for="idPost">Seleccione el post:</label>
+        <select name="idPost">
+            @for (int i = 0; i < ViewBag.ListaDePost.Count; i++)
+            {
+                <option value="@ViewBag.ListaDePost[i].Id">@ViewBag.ListaDePost[i]</option>
+            }
+        </select>
+        <br />
+        <input type="submit" value="Banear" />
+    }
+</form>
+<p class="text-center">@ViewBag.Msj</p>
+

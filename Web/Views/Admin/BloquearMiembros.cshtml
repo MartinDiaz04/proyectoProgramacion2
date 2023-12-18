@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "Bloquear Miembros";
+}
+
+<h2 class="text-center">Bloquear miembros</h2>
+<form method="post">
+    @if (ViewBag.ListaDeMiembrosNoBloqueados != null && ViewBag.ListaDeMiembrosNoBloqueados.Count > 0)
+    {
+        <label for="Email">Seleccione el usuario:</label>
+        <select name="Email">
+            @for (int i = 0; i < ViewBag.ListaDeMiembrosNoBloqueados.Count; i++)
+            {
+                <option value="@ViewBag.ListaDeMiembrosNoBloqueados[i].Email">@ViewBag.ListaDeMiembrosNoBloqueados[i]</option>
+            }
+        </select>
+        <br />
+        <input type="submit" value="Bloquear"/>
+    }
+</form>
+<p class="text-center">@ViewBag.Msj</p>
+

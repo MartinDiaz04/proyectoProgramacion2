@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewData["Title"] = "Registro";
+}
+
+<h1>Registro</h1>
+<form method="post">
+    <label>Email</label>
+    <input type="text" name="Email" />
+    <br />
+    <label>Clave</label>
+    <input type="password" name="Clave" />
+    <br />
+    <label>Nombre</label>
+    <input type="text" name="Nombre" />
+    <br />
+    <label>Apellido</label>
+    <input type="text" name="Apellido" />
+    <br />
+    <label>Fecha de nacimiento</label>
+    <input type="date" name="FechaNacimiento" />
+    <br />
+    <input type="submit" value="Guardar" />
+</form>
+@if (ViewBag.Mensaje!=null)
+{
+    <p>@ViewBag.Mensaje</p>
+
+}
+
+

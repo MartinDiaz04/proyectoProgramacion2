@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewData["Title"] = "Aceptar p Rechazar Solicitudes";
+}
+
+<h1 class="text-center">Aceptar o rechazar solicitudes de amistad</h1>
+@if (ViewBag.ListaSolicitudes != null)
+{
+    @if (ViewBag.ListaSolicitudes.Count > 0)
+    {
+        <div>
+            <form method="post">
+                <label for="id">Seleccione un usuario de la lista:</label>
+                <select name="id" id="id">
+                    @for (int i = 0; i < ViewBag.ListaSolicitudes.Count; i++)
+                    //recorrer lista de solicitudes, mostrar lista de solicitudes, y botones para aceptar, rechazar
+                    {
+                        <option value="@ViewBag.ListaSolicitudes[i].Id">@ViewBag.ListaSolicitudes[i].MiembroSolicitante.Nombre @ViewBag.ListaSolicitudes[i].MiembroSolicitante.Apellido</option>
+                    }
+                </select>
+                <select name="accion" id="accion">
+                    <option value="aceptar">Aceptar Solicitud</option>
+                    <option value="rechazar">Rechazar Solicitud</option>
+                </select>
+                <input type="submit" value="Enviar">
+            </form>
+        </div>
+    }
+    else
+    {
+        <p class="text-center">No tienes solicitudes pendientes</p>
+    }
+}
+@if (ViewBag.Mensaje != null)
+{
+    <p>@ViewBag.Mensaje</p>
+}

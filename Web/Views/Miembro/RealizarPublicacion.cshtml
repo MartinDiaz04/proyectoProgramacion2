@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewData["Title"] = "Realizar Publicacion";
+}
+
+<h1 class="text-center">Realizar Publicacion</h1>
+
+@if (ViewBag.Mensaje==null)
+{
+    <form method="post">
+        <label for="Titulo">Titulo</label>
+        <input type="text" name="Titulo"/><br />
+        <label for="Contenido">Contenido</label>
+        <input type="text" name="Contenido" /><br />
+        <label for="Publico">Privacidad</label>
+        <select name="Privacidad">
+            <option value="Publico">Publico</option>
+            <option value="Privado">Privado</option>
+        </select><br />
+        <label for="Imagen">Imagen</label>
+        <input type="text" name="Imagen" /><br>
+        <input type="submit" value="Realizar Post" />
+    </form>
+}
+else
+{
+    <p>@ViewBag.Mensaje</p>
+}
+
+
+
+

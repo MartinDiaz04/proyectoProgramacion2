@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewData["Title"] = "Listar Usuarios";
+}
+
+<h2 class="text-center">Lista de usuarios ordenados por apellido en forma ascendente</h2>
+@for (int i = 0; i < ViewBag.ListaDeMiembros.Count; i++)
+{
+    <p>@ViewBag.ListaDeMiembros[i]</p>
+}
+
